@@ -1,0 +1,72 @@
+[
+  {
+    "id": "001",
+    "name": "Issue A",
+    "type": "Compliance",
+    "severity": 8,
+    "filename": "FileA.log"
+  },
+  {
+    "id": "002",
+    "name": "Issue B",
+    "type": "Malware",
+    "severity": 5,
+    "filename": "performance_log.txt"
+  },
+  {
+    "id": "003",
+    "name": "Issue C",
+    "type": "Analysis",
+    "severity": 3,
+    "filename": "FileC.json"
+  },
+  {
+    "id": "004",
+    "name": "Issue D",
+    "type": "Compliance",
+    "severity": 7,
+    "filename": "audit_log.csv"
+  },
+  {
+    "id": "005",
+    "name": "Issue E",
+    "type": "Malware",
+    "severity": 9,
+    "filename": "security_scan.xml"
+  },
+  {
+    "id": "006",
+    "name": "Issue F",
+    "type": "Performance",
+    "severity": 4,
+    "filename": "server_metrics.log"
+  },
+  {
+    "id": "007",
+    "name": "Issue G",
+    "type": "Compliance",
+    "severity": 6,
+    "filename": "policy_violation.txt"
+  },
+  {
+    "id": "008",
+    "name": "Issue H",
+    "type": "Analysis",
+    "severity": 2,
+    "filename": "data_export.json"
+  },
+  {
+    "id": "009",
+    "name": "Issue I",
+    "type": "Security",
+    "severity": 10,
+    "filename": "intrusion_report.log"
+  },
+  {
+    "id": "010",
+    "name": "Issue J",
+    "type": "Performance",
+    "severity": 5,
+    "filename": "load_test_results.csv"
+  }
+]

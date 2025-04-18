@@ -1,0 +1,62 @@
+[
+    {
+      "id": "control.cis_v300_1_15",
+      "benchmark": "CIS",
+      "status": "Failed",
+      "severity": 6
+    },
+    {
+      "id": "control.cis_v300_1_16",
+      "benchmark": "CIS",
+      "status": "Failed",
+      "severity": 10
+    },
+    {
+      "id": "control.cis_v300_1_17",
+      "benchmark": "HIPAA",
+      "status": "Pending",
+      "severity": 5
+    },
+    {
+      "id": "control.cis_v300_1_18",
+      "benchmark": "CIS",
+      "status": "Passed",
+      "severity": 2
+    },
+    {
+      "id": "control.cis_v300_1_19",
+      "benchmark": "NIST",
+      "status": "Failed",
+      "severity": 8
+    },
+    {
+      "id": "control.cis_v300_1_20",
+      "benchmark": "CIS",
+      "status": "Pending",
+      "severity": 4
+    },
+    {
+      "id": "control.cis_v300_1_21",
+      "benchmark": "HIPAA",
+      "status": "Failed",
+      "severity": 7
+    },
+    {
+      "id": "control.cis_v300_1_22",
+      "benchmark": "ISO27001",
+      "status": "Passed",
+      "severity": 3
+    },
+    {
+      "id": "control.cis_v300_1_23",
+      "benchmark": "CIS",
+      "status": "Pending",
+      "severity": 5
+    },
+    {
+      "id": "control.cis_v300_1_24",
+      "benchmark": "NIST",
+      "status": "Failed",
+      "severity": 9
+    }
+  ]
